@@ -1,1 +1,6 @@
 /.ipynb_checkpoints
+/lora_model
+/unsloth_compiled_cache
+/trainer_output
+/wandb
+/llama.cpp
